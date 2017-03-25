@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">details</string>
+    <string name="getdetail">getdetails</string>
+    <string name="DETAILS">res_details</string>
+    <string name="backs">back</string>
+    <string-array name="SURESH">
+        <item> ROLL:100</item>
+        <item> SEM:7th</item>
+        <item> SECTION:A</item>
+        <item> BRANCH:EC</item>
+
+    </string-array>
+    <string-array name="RAMESH">
+    <item> ROLL:089</item>
+    <item> SEM:6th</item>
+    <item> SECTION:B</item>
+    <item> BRANCH:CIVIL</item>
+    </string-array>
+
+</resources>
